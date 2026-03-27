@@ -1,5 +1,8 @@
-## Hi there 👋 I am Arlah
+## Hi there 👋 
 
+Aspiring UI Designer  
+Learning to become a Developer   
+Designing and building with purpose
 <!--
 **leeyagoogo/leeyagoogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
