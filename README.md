@@ -1,5 +1,5 @@
 ## Hi there 👋 
-⠀⠀⠀⠀⠀⠀⠀⠀
+
 Aspiring UI Designer  
 Learning to become a Developer   
 Designing and building with purpose
